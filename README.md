@@ -21,7 +21,7 @@ TIDE is available as a python package for python 3.6+ as [tidecv](https://pypi.o
 pip3 install tidecv
 ```
 
-The current version is v1.0.1 ([changelog](https://github.com/dbolya/tide/blob/master/CHANGELOG.md)).
+The current version is v1.1.0 ([changelog](https://github.com/dbolya/tide/blob/master/CHANGELOG.md)).
 
 # Usage
 TIDE is meant as a drop-in replacement for the [COCO Evaluation toolkit](https://github.com/cocodataset/cocoapi), and getting started is easy:
